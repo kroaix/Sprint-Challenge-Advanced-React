@@ -1,6 +1,8 @@
 import React from 'react';
 import './App.css';
+
 import Typography from '@material-ui/core/Typography';
+
 import PlayerList from './components/PlayerList';
 
 class App extends React.Component{
